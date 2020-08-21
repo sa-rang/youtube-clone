@@ -10,9 +10,73 @@ function RecommendedVideos() {
           title="some video"
           views="2.3M Views"
           timestamp="2 days ago"
-          channelImage=""
+          channelImage="https://picsum.photos/40"
           channel="Sa-Rang"
-          image=""
+          image="https://picsum.photos/300/300"
+        />
+        <VideoCard
+          title="some video"
+          views="2.3M Views"
+          timestamp="2 days ago"
+          channelImage="https://picsum.photos/40"
+          channel="Sa-Rang"
+          image="https://picsum.photos/300/300"
+        />
+        <VideoCard
+          title="some video"
+          views="2.3M Views"
+          timestamp="2 days ago"
+          channelImage="https://picsum.photos/40"
+          channel="Sa-Rang"
+          image="https://picsum.photos/300/300"
+        />
+        <VideoCard
+          title="some video"
+          views="2.3M Views"
+          timestamp="2 days ago"
+          channelImage="https://picsum.photos/40"
+          channel="Sa-Rang"
+          image="https://picsum.photos/300/300"
+        />
+        <VideoCard
+          title="some video"
+          views="2.3M Views"
+          timestamp="2 days ago"
+          channelImage="https://picsum.photos/40"
+          channel="Sa-Rang"
+          image="https://picsum.photos/300/300"
+        />
+        <VideoCard
+          title="some video"
+          views="2.3M Views"
+          timestamp="2 days ago"
+          channelImage="https://picsum.photos/40"
+          channel="Sa-Rang"
+          image="https://picsum.photos/300/300"
+        />
+        <VideoCard
+          title="some video"
+          views="2.3M Views"
+          timestamp="2 days ago"
+          channelImage="https://picsum.photos/40"
+          channel="Sa-Rang"
+          image="https://picsum.photos/300/300"
+        />
+        <VideoCard
+          title="some video"
+          views="2.3M Views"
+          timestamp="2 days ago"
+          channelImage="https://picsum.photos/40"
+          channel="Sa-Rang"
+          image="https://picsum.photos/300/300"
+        />
+        <VideoCard
+          title="some video"
+          views="2.3M Views"
+          timestamp="2 days ago"
+          channelImage="https://picsum.photos/40"
+          channel="Sa-Rang"
+          image="https://picsum.photos/300/300"
         />
       </div>
     </div>
